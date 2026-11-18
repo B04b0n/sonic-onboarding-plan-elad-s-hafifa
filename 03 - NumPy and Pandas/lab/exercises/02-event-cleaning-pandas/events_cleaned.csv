@@ -63,7 +63,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 818,2026-01-15 17:37:44,view,user_181,timeout,1908.0
 811,2026-01-15 07:00:42,checkout,user_359,timeout,1528.0
 483,2026-01-15 15:52:34,checkout,user_296,error,666.0
-446,2026-01-15 11:06:41,unknown,user_109,timeout,752.0
 200,2026-01-15 15:57:02,checkout,user_286,ok,1920.0
 774,2026-01-15 20:14:08,login,user_150,ok,1349.0
 108,2026-01-15 09:38:38,purchase,user_436,timeout,1400.0
@@ -97,13 +96,11 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 64,2026-01-15 08:28:32,checkout,,error,825.0
 953,2026-01-15 00:45:19,view,user_937,error,1015.2788353863382
 577,2026-01-15 16:06:48,purchase,user_208,timeout,1015.2788353863382
-216,2026-01-15 22:58:39,unknown,user_652,timeout,1543.0
 605,2026-01-15 05:29:29,view,user_684,error,1203.0
 549,2026-01-15 15:05:21,purchase,user_144,error,1236.0
 291,2026-01-15 05:38:09,login,user_565,unknown,509.0
 788,2026-01-15 00:37:40,view,user_829,timeout,865.0
 889,2026-01-15 22:46:27,checkout,user_668,error,800.0
-966,2026-01-15 23:06:42,unknown,user_816,ok,278.0
 944,2026-01-15 15:43:46,login,user_151,timeout,521.0
 742,2026-01-15 23:40:56,checkout,user_803,ok,1296.0
 807,2026-01-15 11:09:49,view,user_556,unknown,1015.2788353863382
@@ -156,13 +153,11 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 61,2026-01-15 08:17:51,checkout,user_543,timeout,594.0
 328,2026-01-15 19:02:02,purchase,user_180,ok,676.0
 528,2026-01-15 06:10:41,purchase,user_456,error,1892.0
-600,2026-01-15 12:13:40,view,,failed,1909.0
 650,2026-01-15 14:20:45,purchase,user_173,ok,1015.2788353863382
 771,2026-01-15 10:10:55,checkout,user_505,timeout,1458.0
 597,2026-01-15 10:24:10,view,user_391,ok,630.0
 543,2026-01-15 01:40:57,login,user_294,timeout,1475.0
 782,2026-01-15 20:12:48,login,user_839,ok,418.0
-306,2026-01-15 05:43:55,unknown,user_593,timeout,1068.0
 319,2026-01-15 21:04:40,login,user_687,timeout,350.0
 482,2026-01-15 01:36:57,login,user_656,error,192.0
 494,2026-01-15 04:32:14,login,user_797,error,1480.0
@@ -178,7 +173,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 629,2026-01-15 14:11:56,checkout,user_412,timeout,1194.0
 502,2026-01-15 20:11:07,login,user_341,error,1062.0
 433,2026-01-15 12:05:40,purchase,user_636,error,1553.0
-732,2026-01-15 17:50:51,unknown,user_523,error,1247.0
 138,2026-01-15 20:08:32,checkout,user_977,error,418.0
 358,2026-01-15 05:44:36,purchase,user_561,ok,692.0
 930,2026-01-15 10:30:28,view,user_314,ok,989.0
@@ -191,7 +185,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 209,2050-01-15 20:06:24,login,user_253,timeout,1512.0
 779,2050-01-15 20:03:19,view,user_155,ok,1054.0
 335,2026-01-15 14:24:36,view,user_602,timeout,792.0
-211,2026-01-15 08:22:41,unknown,user_729,error,846.0
 351,2026-01-15 09:39:20,view,user_661,error,1955.0
 79,2026-01-15 23:07:07,purchase,user_793,unknown,1841.0
 30,2050-01-15 18:31:38,view,user_736,error,887.0
@@ -233,12 +226,9 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 4,2026-01-15 10:00:48,view,user_370,timeout,1015.2788353863382
 205,2026-01-15 08:10:51,login,user_494,error,456.0
 434,2026-01-15 14:59:24,login,user_646,error,783.0
-985,2026-01-15 11:27:04,unknown,user_903,failed,502.0
 110,2026-01-15 08:58:45,checkout,user_256,timeout,1601.0
 942,2026-01-15 21:46:25,checkout,user_172,error,746.0
-78,2026-01-15 22:10:40,purchase,user_749,failed,228.0
 85,2026-01-15 13:48:55,purchase,,timeout,1888.0
-589,2026-01-15 10:05:47,view,user_540,failed,1040.0
 83,2026-01-15 05:56:57,purchase,user_668,unknown,1015.2788353863382
 255,2026-01-15 06:55:31,login,user_265,error,1500.0
 924,2026-01-15 02:35:59,login,user_992,ok,1088.0
@@ -272,7 +262,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 293,2026-01-15 10:48:10,view,,error,223.0
 212,2026-01-15 21:25:28,view,user_998,timeout,308.0
 722,2026-01-15 12:38:28,view,user_636,timeout,906.0
-362,2026-01-15 22:16:13,unknown,user_923,timeout,303.0
 452,2026-01-15 11:57:05,checkout,user_267,error,285.0
 228,2026-01-15 19:37:58,login,user_884,timeout,1015.2788353863382
 862,2026-01-15 05:31:27,purchase,user_576,error,1074.0
@@ -281,7 +270,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 658,2026-01-15 16:48:35,purchase,user_458,timeout,1148.0
 708,2026-01-15 20:57:50,checkout,user_330,timeout,141.0
 645,2026-01-15 17:01:01,purchase,user_592,timeout,1304.0
-582,2026-01-15 16:14:06,checkout,user_663,failed,469.0
 938,2026-01-15 19:39:36,purchase,user_458,error,1633.0
 371,2026-01-15 04:12:09,purchase,user_904,ok,1420.0
 8,2026-01-15 03:43:54,view,user_140,ok,1550.0
@@ -324,7 +312,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 711,2026-01-15 07:13:15,view,user_633,timeout,1364.0
 550,2026-01-15 22:55:44,purchase,user_232,ok,937.0
 618,2026-01-15 07:31:50,checkout,user_709,timeout,1292.0
-535,2026-01-15 12:12:13,unknown,user_564,ok,254.0
 480,2026-01-15 06:55:14,purchase,user_249,error,632.0
 778,2026-01-15 03:07:01,purchase,user_532,timeout,1805.0
 173,2026-01-15 13:12:56,view,user_335,error,774.0
@@ -332,7 +319,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 425,2026-01-15 22:35:51,login,user_433,error,928.0
 423,2026-01-15 20:23:05,view,user_274,ok,930.0
 555,2026-01-15 14:33:03,login,user_601,error,495.0
-909,2026-01-15 16:31:50,unknown,user_194,timeout,481.0
 91,2026-01-15 02:02:11,view,user_971,error,645.0
 945,2026-01-15 11:44:07,view,user_582,timeout,941.0
 182,2026-01-15 02:31:11,checkout,user_265,timeout,880.0
@@ -350,10 +336,7 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 667,2026-01-15 12:17:16,purchase,user_989,ok,1479.0
 165,2026-01-15 19:38:17,login,user_955,error,605.0
 29,2026-01-15 10:07:43,checkout,user_757,timeout,836.0
-936,2026-01-15 09:54:43,view,user_737,failed,1752.0
 194,2026-01-15 19:38:06,view,user_187,ok,1952.0
-996,2026-01-15 01:58:24,view,user_211,failed,631.0
-750,2026-01-15 09:46:19,view,user_133,failed,1984.0
 170,2026-01-15 17:47:22,view,user_593,error,825.0
 491,2026-01-15 12:01:19,view,user_852,error,1015.2788353863382
 141,2026-01-15 19:33:01,view,user_614,ok,1793.0
@@ -401,10 +384,8 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 894,2026-01-15 08:43:59,purchase,user_131,ok,1351.0
 450,2026-01-15 07:01:53,checkout,user_521,timeout,1015.2788353863382
 19,2026-01-15 21:55:07,checkout,user_513,error,865.0
-897,2026-01-15 02:43:58,unknown,user_720,timeout,230.0
 486,2026-01-15 19:36:15,purchase,,unknown,1914.0
 571,2026-01-15 04:51:17,purchase,user_842,error,925.0
-368,2026-01-15 03:46:17,unknown,user_237,ok,1198.0
 84,2026-01-15 16:49:49,login,user_142,timeout,624.0
 62,2026-01-15 10:32:10,checkout,user_498,timeout,929.0
 440,2026-01-15 01:24:35,checkout,,ok,240.0
@@ -429,12 +410,10 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 177,2026-01-15 08:46:11,purchase,user_936,error,207.0
 670,2026-01-15 15:20:55,purchase,user_213,ok,674.0
 632,2026-01-15 19:53:02,login,user_814,error,155.0
-590,2026-01-15 18:58:47,checkout,user_431,failed,1169.0
 523,2026-01-15 16:05:05,checkout,user_356,ok,1466.0
 394,2026-01-15 04:45:46,login,user_755,timeout,698.0
 164,2026-01-15 05:52:54,login,user_701,ok,1133.0
 249,2026-01-15 02:12:24,login,user_414,ok,1101.0
-639,2026-01-15 17:40:54,unknown,user_444,ok,460.0
 674,2026-01-15 00:42:20,login,user_635,ok,665.0
 376,2026-01-15 10:15:30,login,user_360,unknown,620.0
 413,2026-01-15 04:38:24,purchase,user_999,timeout,643.0
@@ -470,7 +449,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 179,2026-01-15 02:52:02,purchase,user_438,ok,1705.0
 445,2026-01-15 12:43:50,login,user_873,error,1400.0
 417,2026-01-15 01:27:09,checkout,user_732,ok,65.0
-766,2026-01-15 17:45:04,purchase,user_821,failed,960.0
 888,2026-01-15 07:33:55,login,user_842,error,1502.0
 663,2026-01-15 11:55:06,view,user_875,timeout,562.0
 178,2026-01-15 20:39:24,checkout,user_335,timeout,167.0
@@ -541,7 +519,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 603,2026-01-15 02:56:01,purchase,user_806,ok,481.0
 973,2026-01-15 11:41:21,view,user_718,error,1535.0
 150,2026-01-15 00:07:05,login,user_141,timeout,313.0
-125,2050-01-15 10:37:34,checkout,user_301,failed,233.0
 791,2026-01-15 08:04:05,purchase,user_828,unknown,1653.0
 828,2026-01-15 13:08:21,view,user_189,timeout,1207.0
 51,2026-01-15 02:52:08,checkout,user_762,error,325.0
@@ -579,7 +556,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 971,2026-01-15 14:52:03,login,user_572,ok,133.0
 191,2026-01-15 22:05:07,view,user_677,error,1753.0
 116,2026-01-15 21:14:44,view,user_960,error,1582.0
-621,2026-01-15 21:15:56,unknown,user_898,error,1440.0
 607,2026-01-15 13:56:45,checkout,user_571,ok,189.0
 302,2026-01-15 21:16:09,view,user_888,timeout,235.0
 890,2026-01-15 07:40:59,view,user_313,ok,1765.0
@@ -598,12 +574,10 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 512,2026-01-15 19:56:59,login,user_802,error,433.0
 49,2026-01-15 04:32:41,purchase,user_948,ok,1634.0
 978,2026-01-15 18:02:22,login,user_409,timeout,1471.0
-846,2026-01-15 17:05:24,checkout,user_211,failed,1151.0
 516,2026-01-15 07:39:09,checkout,user_910,ok,1378.0
 829,2026-01-15 06:31:59,checkout,user_526,timeout,478.0
 481,2026-01-15 09:16:26,view,user_894,error,1142.0
 284,2026-01-15 14:12:53,purchase,user_630,error,1163.0
-723,2026-01-15 19:23:47,unknown,user_540,timeout,1684.0
 685,2026-01-15 07:15:30,view,user_776,error,1808.0
 226,2026-01-15 17:40:24,checkout,user_689,ok,624.0
 27,2026-01-15 16:21:18,purchase,,error,1015.2788353863382
@@ -618,7 +592,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 974,2026-01-15 03:48:30,checkout,user_620,error,915.0
 856,2026-01-15 14:35:21,login,user_608,error,1559.0
 709,2026-01-15 13:39:52,purchase,user_502,error,958.0
-845,2026-01-15 10:21:08,unknown,user_314,error,61.0
 195,2026-01-15 07:19:25,login,user_721,timeout,122.0
 860,2026-01-15 22:55:02,checkout,user_397,timeout,712.0
 870,2026-01-15 15:09:08,view,user_909,ok,487.0
@@ -659,7 +632,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 751,2026-01-15 11:44:05,purchase,user_115,error,148.0
 572,2026-01-15 16:55:01,checkout,user_494,error,1918.0
 624,2026-01-15 13:50:57,login,user_988,timeout,1708.0
-724,2026-01-15 15:35:48,unknown,user_888,failed,953.0
 263,2026-01-15 09:05:42,checkout,user_714,error,778.0
 611,2026-01-15 15:06:17,purchase,user_194,error,1749.0
 298,2026-01-15 02:13:09,login,user_363,timeout,206.0
@@ -676,7 +648,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 935,2026-01-15 14:39:17,purchase,user_380,error,857.0
 937,2026-01-15 18:13:17,view,user_204,error,843.0
 744,2026-01-15 22:25:28,checkout,user_588,ok,1341.0
-660,2026-01-15 01:49:50,unknown,user_249,error,948.0
 349,2026-01-15 07:45:38,login,user_433,error,1703.0
 464,2026-01-15 09:30:37,login,user_752,ok,1251.0
 326,2026-01-15 21:15:03,login,user_733,timeout,1015.2788353863382
@@ -698,7 +669,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 247,2026-01-15 23:31:36,purchase,user_479,error,1015.2788353863382
 416,2026-01-15 13:16:35,login,user_185,timeout,1909.0
 781,2026-01-15 17:47:18,login,user_761,timeout,530.0
-984,2026-01-15 03:12:22,purchase,user_810,failed,701.0
 912,2026-01-15 09:37:55,checkout,user_448,error,1101.0
 865,2026-01-15 11:03:44,purchase,user_524,ok,488.0
 893,2026-01-15 05:43:05,login,user_252,ok,1015.2788353863382
@@ -706,11 +676,9 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 638,2026-01-15 15:52:05,purchase,user_503,error,588.0
 403,2026-01-15 04:04:23,login,user_555,timeout,1482.0
 789,2026-01-15 03:23:16,view,user_565,timeout,1698.0
-775,2050-01-15 22:10:06,unknown,user_550,ok,1836.0
 736,2026-01-15 23:08:27,login,user_897,error,907.0
 919,2026-01-15 08:11:06,checkout,user_137,timeout,1169.0
 220,2026-01-15 01:08:37,checkout,user_814,error,1800.0
-642,2026-01-15 12:14:17,login,user_187,failed,1991.0
 921,2026-01-15 05:25:28,checkout,user_218,error,1019.0
 757,2026-01-15 16:55:10,login,user_601,error,508.0
 925,2026-01-15 02:10:16,purchase,user_578,ok,1232.0
@@ -720,7 +688,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 387,2026-01-15 03:21:37,login,user_899,timeout,1023.0
 979,2026-01-15 10:29:37,login,user_510,error,1607.0
 510,2026-01-15 10:57:26,view,user_889,timeout,1831.0
-268,2026-01-15 01:50:30,unknown,user_633,timeout,467.0
 825,2026-01-15 07:04:03,login,user_248,error,1766.0
 442,2026-01-15 08:05:54,view,user_452,timeout,200.0
 497,2050-01-15 18:08:43,login,user_662,ok,300.0
@@ -734,7 +701,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 988,2026-01-15 04:13:14,purchase,user_277,error,747.0
 848,2026-01-15 16:02:13,purchase,user_189,error,512.0
 790,2026-01-15 10:42:46,checkout,user_431,timeout,109.0
-677,2026-01-15 12:44:30,unknown,user_811,timeout,826.0
 318,2026-01-15 08:57:51,login,user_462,error,201.0
 649,2026-01-15 00:58:54,login,user_636,timeout,163.0
 411,2026-01-15 05:23:30,purchase,user_315,ok,1066.0
@@ -751,7 +717,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 225,2026-01-15 10:08:20,checkout,user_879,error,924.0
 960,2026-01-15 23:43:14,view,user_566,error,1104.0
 820,2026-01-15 21:27:58,login,user_660,ok,1513.0
-473,2026-01-15 11:25:14,unknown,,error,1811.0
 348,2026-01-15 19:34:28,checkout,user_488,timeout,1331.0
 506,2026-01-15 13:48:15,purchase,user_908,error,979.0
 640,2026-01-15 01:03:24,view,user_685,ok,1170.0
@@ -767,7 +732,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 964,2026-01-15 21:18:40,purchase,user_731,ok,98.0
 578,2026-01-15 22:18:21,login,user_690,error,161.0
 796,2026-01-15 13:26:08,login,user_493,error,1646.0
-86,2026-01-15 09:49:42,unknown,user_650,ok,1347.0
 243,2026-01-15 14:58:03,purchase,user_382,error,968.0
 699,2026-01-15 22:03:35,purchase,user_502,ok,1299.0
 525,2026-01-15 07:46:50,view,user_672,ok,56.0
@@ -783,7 +747,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 96,2026-01-15 09:44:53,view,user_972,error,1441.0
 564,2026-01-15 18:51:29,view,user_525,error,1934.0
 241,2026-01-15 12:53:58,purchase,user_975,error,1177.0
-743,2026-01-15 09:50:00,view,user_181,failed,1562.0
 575,2026-01-15 21:40:47,login,user_283,ok,1208.0
 691,2026-01-15 17:14:30,view,user_826,timeout,129.0
 461,2026-01-15 12:03:24,purchase,user_375,error,702.0
@@ -794,7 +757,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 795,2026-01-15 21:10:25,view,user_187,timeout,889.0
 767,2026-01-15 07:43:22,view,user_633,timeout,330.0
 854,2026-01-15 04:09:13,checkout,user_738,ok,1119.0
-218,2026-01-15 08:20:07,unknown,user_541,ok,928.0
 5,2026-01-15 08:54:58,checkout,user_698,error,1563.0
 769,2026-01-15 09:24:22,purchase,user_143,timeout,202.0
 643,2026-01-15 14:43:14,login,user_544,error,1703.0
@@ -833,7 +795,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 129,2026-01-15 15:22:13,checkout,user_131,timeout,1032.0
 983,2026-01-15 16:33:34,checkout,user_448,error,612.0
 521,2026-01-15 11:43:57,purchase,user_121,error,614.0
-839,2026-01-15 04:35:51,unknown,user_876,ok,1871.0
 969,2026-01-15 17:06:45,login,user_130,ok,988.0
 65,2026-01-15 03:40:38,purchase,user_164,timeout,1701.0
 813,2026-01-15 04:21:10,checkout,user_610,timeout,1557.0
@@ -877,9 +838,7 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 989,2026-01-15 14:42:56,purchase,user_179,ok,1799.0
 562,2026-01-15 07:58:03,login,user_920,timeout,1960.0
 81,2026-01-15 19:26:50,login,user_763,ok,1592.0
-35,2026-01-15 05:39:39,unknown,user_841,error,1028.0
 776,2026-01-15 18:48:35,view,user_411,ok,360.0
-509,2026-01-15 20:43:13,unknown,user_710,error,190.0
 428,2026-01-15 05:54:59,view,user_661,error,1343.0
 455,2026-01-15 10:09:45,purchase,user_181,unknown,1385.0
 367,2026-01-15 10:54:00,checkout,,ok,1368.0
@@ -888,7 +847,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 898,2026-01-15 05:41:57,view,user_709,timeout,430.0
 565,2026-01-15 16:54:49,view,user_913,ok,1440.0
 346,2026-01-15 03:38:24,view,user_423,timeout,1680.0
-777,2026-01-15 06:57:22,unknown,user_392,timeout,319.0
 242,2026-01-15 15:25:19,login,user_678,timeout,1782.0
 14,2026-01-15 01:05:05,login,user_174,ok,1174.0
 316,2026-01-15 04:21:53,login,user_177,error,1474.0
@@ -897,7 +855,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 274,2050-01-15 14:51:16,checkout,user_630,error,434.0
 167,2026-01-15 00:01:14,login,user_328,error,1438.0
 841,2026-01-15 17:52:20,checkout,user_582,error,810.0
-999,2026-01-15 13:10:19,checkout,user_760,failed,1218.0
 647,2026-01-15 22:39:20,view,user_685,error,1089.0
 819,2026-01-15 10:04:01,checkout,user_106,error,1067.0
 485,2026-01-15 18:55:46,purchase,user_948,ok,661.0
@@ -908,7 +865,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 876,2026-01-15 13:50:56,purchase,user_129,timeout,865.0
 563,2050-01-15 03:23:37,purchase,user_469,ok,915.0
 687,2026-01-15 22:37:19,view,user_468,ok,830.0
-958,2026-01-15 17:07:49,purchase,user_932,failed,1605.0
 190,2026-01-15 19:12:43,view,user_515,ok,814.0
 783,2026-01-15 08:44:59,view,user_284,ok,1418.0
 700,2026-01-15 22:06:33,login,user_118,timeout,578.0
@@ -923,7 +879,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 253,2026-01-15 09:03:11,purchase,user_865,ok,1015.2788353863382
 22,2026-01-15 07:14:22,view,user_469,error,220.0
 314,2026-01-15 08:33:48,checkout,user_195,error,1797.0
-460,2026-01-15 19:31:22,unknown,user_860,ok,1858.0
 161,2026-01-15 07:14:31,purchase,user_369,ok,1015.2788353863382
 277,2026-01-15 17:31:32,checkout,user_337,ok,823.0
 192,2026-01-15 15:24:21,view,user_999,error,662.0
@@ -946,7 +901,6 @@ event_id,timestamp,event_type,user_id,status,latency_ms
 467,2026-01-15 09:39:55,view,user_428,ok,552.0
 122,2026-01-15 17:58:06,login,user_721,timeout,877.0
 615,2026-01-15 16:57:49,view,user_277,timeout,1853.0
-21,2026-01-15 20:26:03,view,user_779,failed,1675.0
 701,2026-01-15 04:10:12,login,user_460,error,310.0
 72,2026-01-15 13:28:40,view,user_490,timeout,1438.0
 107,2026-01-15 05:12:06,purchase,user_425,error,1804.0
