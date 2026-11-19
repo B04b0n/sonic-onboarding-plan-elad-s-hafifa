@@ -1,0 +1,3 @@
+user_value,user_count,total_events_by_user,error_rate_by_user,avg_latency_by_user
+high,0,,,
+low,200,1.0,0.405,1006.582306830907
